@@ -9,6 +9,6 @@ RUN apt-get update && \
 
 COPY app.sh /usr/local/bin/app.sh
 
-run chmod +x /usr/local/bin/app.sh
+RUN chmod +x /usr/local/bin/app.sh
 
-CMD service nginx start
+CMD service nginx start && /usr/local/bin/app.sh
