@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1744319167,,"wq"
+|2,0,1744346185,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,28 @@
 # Registers:
 
 # File marks:
-'0  17  68  ~/Dockerfile
-|4,48,17,68,1744319167,"~/Dockerfile"
-'1  10  20  ~/app.sh
-|4,49,10,20,1744319101,"~/app.sh"
-'2  14  47  ~/Dockerfile
-|4,50,14,47,1744318180,"~/Dockerfile"
-'3  17  22  ~/Dockerfile
-|4,51,17,22,1744317927,"~/Dockerfile"
-'4  14  22  ~/Dockerfile
-|4,52,14,22,1744317927,"~/Dockerfile"
+'0  2  41  ~/app.sh
+|4,48,2,41,1744346185,"~/app.sh"
+'1  17  68  ~/Dockerfile
+|4,49,17,68,1744319167,"~/Dockerfile"
+'2  12  20  ~/app.sh
+|4,50,12,20,1744319101,"~/app.sh"
+'3  10  20  ~/app.sh
+|4,51,10,20,1744319101,"~/app.sh"
+'4  14  47  ~/Dockerfile
+|4,52,14,47,1744318180,"~/Dockerfile"
+'5  17  22  ~/Dockerfile
+|4,53,17,22,1744317927,"~/Dockerfile"
+'6  14  22  ~/Dockerfile
+|4,54,14,22,1744317927,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  2  41  ~/app.sh
+|4,39,2,41,1744346185,"~/app.sh"
+-'  12  20  ~/app.sh
+|4,39,12,20,1744346132,"~/app.sh"
+-'  17  68  ~/Dockerfile
+|4,39,17,68,1744319167,"~/Dockerfile"
 -'  17  68  ~/Dockerfile
 |4,39,17,68,1744319167,"~/Dockerfile"
 -'  10  20  ~/app.sh
@@ -47,6 +57,12 @@
 |4,39,1,0,1744318641,"~/app.sh"
 -'  1  0  ~/app.sh
 |4,39,1,0,1744318641,"~/app.sh"
+-'  1  0  ~/app.sh
+|4,39,1,0,1744318641,"~/app.sh"
+-'  14  47  ~/Dockerfile
+|4,39,14,47,1744318180,"~/Dockerfile"
+-'  14  47  ~/Dockerfile
+|4,39,14,47,1744318180,"~/Dockerfile"
 -'  14  47  ~/Dockerfile
 |4,39,14,47,1744318180,"~/Dockerfile"
 -'  14  47  ~/Dockerfile
@@ -55,6 +71,20 @@
 |4,39,14,22,1744317927,"~/Dockerfile"
 -'  14  22  ~/Dockerfile
 |4,39,14,22,1744317927,"~/Dockerfile"
+-'  14  22  ~/Dockerfile
+|4,39,14,22,1744317927,"~/Dockerfile"
+-'  14  22  ~/Dockerfile
+|4,39,14,22,1744317927,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1744317693,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1744317693,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1744317693,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1744317693,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1744317693,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1744317693,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
@@ -68,6 +98,15 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/app.sh
+	*	1744346183	0
+	"	2	41
+	^	2	42
+	.	2	41
+	+	12	20
+	+	1	10
+	+	2	41
+
 > ~/Dockerfile
 	*	1744319164	0
 	"	17	68
@@ -80,10 +119,3 @@
 	+	17	47
 	+	15	9
 	+	17	68
-
-> ~/app.sh
-	*	1744319100	0
-	"	10	20
-	^	10	21
-	.	10	20
-	+	10	20

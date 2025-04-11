@@ -1,3 +1,5 @@
+#!/usr/bin
+# Copyright (c) Alexander Workman 04/10/25
 echo "nginx starting"
 service nginx start
 
